@@ -1,0 +1,30 @@
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\bin\Debug\First-Project.exe.config
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\bin\Debug\First-Project.exe
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\bin\Debug\First-Project.pdb
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.csprojAssemblyReference.cache
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First_Project.Form1.resources
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First_Project.Properties.Resources.resources
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.csproj.GenerateResource.cache
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.csproj.CoreCompileInputs.cache
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.exe
+D:\Visual Programming Labs\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.pdb
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\bin\Debug\First-Project.exe.config
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\bin\Debug\First-Project.exe
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\bin\Debug\First-Project.pdb
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.csproj.AssemblyReference.cache
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First_Project.Form1.resources
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.csproj.GenerateResource.cache
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.csproj.CoreCompileInputs.cache
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.exe
+C:\Users\mzuba\OneDrive\Desktop\2126 - BSCS-6 M.Zubair\First-Project\First-Project\obj\Debug\First-Project.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\bin\Debug\First-Project.exe.config
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\bin\Debug\First-Project.exe
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\bin\Debug\First-Project.pdb
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\obj\Debug\First-Project.csproj.AssemblyReference.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\obj\Debug\First_Project.Form1.resources
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\obj\Debug\First_Project.Properties.Resources.resources
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\obj\Debug\First-Project.csproj.GenerateResource.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\obj\Debug\First-Project.csproj.CoreCompileInputs.cache
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\obj\Debug\First-Project.exe
+C:\Users\mzuba\OneDrive\Desktop\Semster - 6\Visual Programming\C-sharp Desktop Apps\Employee Data\First-Project\First-Project\obj\Debug\First-Project.pdb
